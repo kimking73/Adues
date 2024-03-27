@@ -1,0 +1,4 @@
+import game
+
+game.main()
+
